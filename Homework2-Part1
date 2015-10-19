@@ -22,7 +22,7 @@
 	        <p>I was born in Colombia. It's a great place to visit!</p>
 	        <p><a class="btn btn-default text-red" href="https://www.youtube.com/watch?v=3ZPzNVwgjVI" role="button">The danger is wanting to stay &raquo;</a></p>
 	      </div>
-	     </div>
+	    </div>
 	     <br>
 	     <div class="row">
 	      <div class="col-md-4 col-md-offset-2 text-blue">
@@ -32,7 +32,7 @@
 	        <p>This is one of my favorite pictures. It's by an artist called <a class="btn btn-default text-blue" href="http://elkevogelsang.com/" role="button">Elke Vogelsang &raquo;</a></p>
 	        <br>
 	      </div>
-	     </div>
+	    </div>
 	      <div class="row">
 	       <div class="col-md-4 text-green">
 	        <h2>Education</h2>
@@ -69,7 +69,19 @@
 			  </tr>
 			</table>
 		   </div>
-	      </div>
-	     </div>
+	    </div>
+        <h2>Answers to Homework #1</h2>
+	        <ul>
+		        <li>Who is David Heinemeier Hansson?
+		        	<p>He is the creator of the Ruby on Rails web development framework!</p>
+		        </li>
+				<li>What's the difference between Ruby and Rails?
+					<p>Ruby is the programming language in which Rails was built. Rails is a framework that is well suited for Web Application development</p>
+				</li>
+				<li>What was the first Rails App?
+					<p> Mac OS X v10.5</p>
+				</li>	
+			</ul>
+	</div>
 </body>
 </html>
