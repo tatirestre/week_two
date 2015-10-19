@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Tatiana Restrepo's Resume</title>
+	<!-- Latest compiled and minified CSS -->
+	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css">
+	<!-- Optional theme -->
+	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap-theme.min.css">
+	<style type="text/css">
+		.text-red{color: red}
+		.text-blue{color: blue;}
+		.text-green{color: green;}
+	</style>
+</head>
+<body>
+	<div class = "container">
+	<header><h1 class="title">Tatiana Restrepo</h1></header>
+	<br>
+		<div class="row">
+	      <div class="col-md-6 col-md-offset-6 text-red">
+	        <h2>Background</h2>
+	        <p>I was born in Colombia. It's a great place to visit!</p>
+	        <p><a class="btn btn-default text-red" href="https://www.youtube.com/watch?v=3ZPzNVwgjVI" role="button">The danger is wanting to stay &raquo;</a></p>
+	      </div>
+	     </div>
+	     <br>
+	     <div class="row">
+	      <div class="col-md-4 col-md-offset-2 text-blue">
+	        <h2>Interests</h2>
+	        <p>I love dogs!!</p>
+	        <img src="https://s-media-cache-ak0.pinimg.com/736x/e8/51/06/e85106ee7bd405f4e55361168a84a987.jpg">
+	        <p>This is one of my favorite pictures. It's by an artist called <a class="btn btn-default text-blue" href="http://elkevogelsang.com/" role="button">Elke Vogelsang &raquo;</a></p>
+	        <br>
+	      </div>
+	     </div>
+	      <div class="row">
+	       <div class="col-md-4 text-green">
+	        <h2>Education</h2>
+	        <p>This is a brief summary of the programs and certifications I have.</p>
+	        <table class="table table-striped">
+			  <tr>
+				<th><b>School Name</b></th>
+				<th><b>Mayor</b></th>
+				<th><b>More information</b></th>
+			  </tr>
+			  <tr>
+				<td>Universidad de Los Andes</td>
+				<td>BS. in Industrial Engineering</td>
+				<td><a class="btn btn-default text-green" href='https://industrial.uniandes.edu.co/' target=blank>About the Industrial Engineering Program</a></td>
+			  </tr>
+			  <tr>
+				<td>Georgia State University</td>
+				<td>MS. in Marketing</td>
+				<td><a class="btn btn-default text-green" href='http://marketing.robinson.gsu.edu/academic-programs/ms/' target=blank>About the MS. In Marketing Program</a></td>
+			  </tr>
+			  <tr>
+				<td>Market Motive</td>
+				<td>Web Analytics Practitioner
+				<br>
+				<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxd3qgk0wqNYf3m1J9oNc7_C_JtvhpC6bS5maTkidFCLnv4fKC" style="width:65px;height:43px;"></td>
+				<td><a class="btn btn-default text-green" href='http://www.marketmotive.com/web-analytics-training-courses/' target=blank>About the Web Analytics Training Course</a></td>
+			  </tr>
+			  <tr>
+				<td>Nielsen Norman Group</td>
+				<td>UX Certification 
+				<br>
+				<img src="http://media.nngroup.com/ux-badge.png" style="width:65px;height:43px;"></td>
+				<td><a class="btn btn-default text-green" href='http://www.nngroup.com/ux-certification' target=blank>About the UX Certification</a></td>
+			  </tr>
+			</table>
+		   </div>
+	      </div>
+	     </div>
+</body>
+</html>
